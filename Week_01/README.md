@@ -19,3 +19,12 @@
 	-	1-2 兴奋
 	- 	3-4 彷徨 疲惫 坚持
 	-	5-7 习惯 收获
+	
+	
+## 学习笔记
+
+### 数据 链表 调表
+https://github.com/wffeige/algorithm015/blob/master/Week_01/array_linklist.md
+
+### 栈和队列
+https://github.com/wffeige/algorithm015/blob/master/Week_01/stack_queue.md
