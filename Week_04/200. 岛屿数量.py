@@ -9,3 +9,5 @@ class Solution(object):
         :rtype: int
         """
 
+def main():
+    pass
