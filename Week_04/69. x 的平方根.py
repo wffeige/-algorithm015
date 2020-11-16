@@ -5,7 +5,7 @@ class Solution:
 
     def mySqrt(self, x):
         """
-        实现思路 二分查找
+        实现思路  二分查找
         :param x:
         :return:
         """
